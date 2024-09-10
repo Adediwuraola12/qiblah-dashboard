@@ -1,21 +1,21 @@
 # Qiblah Dashboard
 
 ## TABLE OF CONTENT
-- [PROJECT OVERVIEW](#project-overview)
-- [DATA SOURCE](#data-source)
-- [TOOL](#tool)
-- DATA CLEANING
-- EXPLANATORY DATA ANALYSIS
-## PROJECT OVERVIEW 
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tool](#tool)
+- [Data Cleaning](#data-cleaning)
+- [Explanatory Data Analysis](#explanatory-data-analysis)
+## Project Overview 
 The QIBLAH Dashboard is an analysis visualization of  Qiblah data showing the Total Sales, Total Profit,Total Customer and many more .The analysis is for the the year 2023(January-September)  showing effects across Months ,Regions and Quarters of the year.The analysis helped in understanding the data and the sales of the company which has helped in making great decisions in the company.
 
-## DATA SOURCE 
+## Data Source
 The primary dataset used for the "Qiblah Dashboard.xlsx" containing detailed information about the company sales and profit.
 
 ## Tool
 - Microsoft Excel [Download here]("https://microsoft.com")
 
-## DATA CLEANING 
+## Data Cleaning 
 In thr intial data preparation phase, we performed the following task;
 1. Data loading and inspection
 2. Handling missing values
